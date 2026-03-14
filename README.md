@@ -51,7 +51,6 @@ house-price-prediction │
 
 ### Data Preprocessing
 - Handling missing values
-- Encoding categorical variables
 - Feature scaling
 
 ### Exploratory Data Analysis
@@ -67,10 +66,7 @@ Machine learning models used:
 
 ### Model Evaluation
 Models were evaluated using metrics such as:
-- Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
-- R² Score
-
 ---
 
 ## Results
