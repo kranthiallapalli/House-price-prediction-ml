@@ -41,7 +41,12 @@ These features are used to predict the *price of a house*.
 
 ## Repository Structure
 
-house-price-prediction │ ├── 01_data_preprocessing.ipynb ├── 02_exploratory_data_analysis.ipynb ├── 03_model_training.ipynb ├── 04_model_evaluation.ipynb └── README.md
+house-price-prediction │
+├── 01_data_preprocessing.ipynb
+├── 02_exploratory_data_analysis.ipynb
+├── 03_model_training.ipynb 
+├── 04_model_evaluation.ipynb 
+└── README.md
 ## Steps Performed
 
 ### Data Preprocessing
